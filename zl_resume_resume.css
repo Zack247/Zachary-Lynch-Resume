@@ -2,6 +2,7 @@
 	font-family: "Tahoma";
 	margin: 0px;
 	padding: 0px;
+	background-color: silver;
 }
 
 h1	{
@@ -10,8 +11,7 @@ h1	{
 }
 
 h4	{
-	text-align: left;
-	padding-left: 25px;
+	text-align: center;
 }
 
 ul	{
