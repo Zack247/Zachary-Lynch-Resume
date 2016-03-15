@@ -4,14 +4,8 @@
 	padding: 0px;
 }
 
-#dieter img {
-	width: 400px;
-	height: 400px;
-	margin: 0px auto;
-	padding-left: 360px;
-}
-
-h1 {
+h1	{
+	padding-top: 25px;
 	text-align: center;
 }
 
@@ -20,6 +14,7 @@ h4	{
 	padding-left: 25px;
 }
 
-p {
-	text-align: center;
+ul	{
+	padding-left: 50px;
+	padding-right: 50px;
 }
